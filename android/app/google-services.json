@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397389743148",
+    "project_id": "moopapplication",
+    "storage_bucket": "moopapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397389743148:android:3fe46faaa15cfe84553d89",
+        "android_client_info": {
+          "package_name": "com.moopapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397389743148-21fbts4va2h0q15kbtlp6ad0ngeaair8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmXKQqeSjnEok29hKu6WwrgfVqWz-SDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397389743148-21fbts4va2h0q15kbtlp6ad0ngeaair8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
